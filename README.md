@@ -20,8 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_sharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_sharafot" height="30" width="40" /></a>
-<a href="https://kaggle.com/inzamul sharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="inzamul sharafot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/inzamul sharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="inzamul sharafot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inzamulsharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inzamulsharafot" height="30" width="40" /></a>
+<a href="https://kaggle.com/inzamulsharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="inzamulsharafot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/enzyme_sharafot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enzyme_sharafot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
